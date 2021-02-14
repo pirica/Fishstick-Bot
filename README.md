@@ -3,6 +3,9 @@
 # What is Fishstick Bot?
 Fishstick is a Multifunctional Bot which let's you login to upto 10 Fortnite accounts and access so many useful commands!
 
+# Invite Bot
+You can join Fishstick Bot Support Server by clicking [here](https://discord.gg/XBXYKeDTq8)
+
 # Features
 - Automatically claim STW daily everyday for you
 - Automatically claims free llamas for you whenever they are there
